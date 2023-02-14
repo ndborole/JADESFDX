@@ -1,5 +1,5 @@
 public with sharing class test {
     public test() {
-     system.debug('test234');
+     system.debug('test256');
     }
 }
